@@ -1,0 +1,11 @@
+Plant Disease Detection using Deep Learning and Fertilizer Recommendation.
+****************************************************************
+Algorithm / Model Used: InceptionV3 Architecture.
+
+Training Accuracy:93.88%.
+Validation Accuracy:90.05%.
+****************************************************************
+Algorithm / Model Used: MobileNetV2 Architecture.
+Training Accuracy:98.30%.
+Validation Accuracy:94.38%.
+****************************************************************
